@@ -1,1 +1,1 @@
-# under-the-hood-of-k-means
+# Under the hood of a k-means algorithm
