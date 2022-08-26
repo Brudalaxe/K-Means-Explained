@@ -1,4 +1,4 @@
-# Under the hood of a k-means algorithm
+# K-Means Explained
 
 ![alt text](https://hpccsystems.com/sites/default/files/inline-images/kmeansblog_0.jpg)
 
